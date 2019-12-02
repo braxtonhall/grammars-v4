@@ -1,3 +1,5 @@
+package TypeScriptParseTree;
+
 import org.antlr.v4.runtime.*;
 
 /**
